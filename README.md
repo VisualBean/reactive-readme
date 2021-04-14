@@ -4,7 +4,7 @@ Full credits goes to @JasonEtco.
 
 ## What does it do?
 Replace any section with a given value
-```bash
+```
 <!--START_SECTION:{section-name}-->
 Old contents...
 <!--END_SECTION:{section-name}-->
