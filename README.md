@@ -3,7 +3,7 @@ A small github action wrapper for [readme-box](https://github.com/JasonEtco/read
 Full credits goes to @JasonEtco.
 
 ## What does it do?
-Replace any section with a given value
+Replace any section in your README.md file, with a given value
 ```
 <!--START_SECTION:{section-name}-->
 Old contents...
