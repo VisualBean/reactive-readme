@@ -29,3 +29,4 @@ Old contents...
 # Members
 <!--START_SECTION:section-->
 <!--END_SECTION:section-->
+@VisualBean
