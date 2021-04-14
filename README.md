@@ -26,6 +26,6 @@ Old contents...
     default: ${{ github.event.repository.default_branch }}
     description: The target branch to update.
 ```
-
+# Members
 <!--START_SECTION:section-->
 <!--END_SECTION:section-->
